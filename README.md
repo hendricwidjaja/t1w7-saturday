@@ -42,8 +42,14 @@ Task:
     - A blueprint for creating objects.
     - Defines a set of attributes or methods that the created objects (instances) will have
     - E.g. Blueprint provided while building ahouse, defining what an animal is
+    - NOTE: Needs to start with captial letter
 
 - Object
     - An instance of a class
     - It represents a specific entity with attributes (data) and methods (functions) which are defined by class.
-    - E.g. A built house with many functions (as functions) 
+    - E.g. A built house with many functions (as functions)
+    - E.g. class_eg(Dog)
+    - E.g. BankAccount
+
+- 4 Pillars of OOP
+- Encapsulation, Abstraction, Inheritance, Polymorphism
