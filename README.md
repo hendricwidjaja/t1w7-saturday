@@ -16,4 +16,34 @@
 - A collection of modules
 - Organise related modules under one directory
 - Initialise a package using __init__.py file
-- __init__ whenever you call something, 
+
+## Practical Example
+Task:
+- Create a package for basic text processing with modules for:
+    - Counting words in a string,
+    - Counting characters in a string, and
+    - Reversing strings.
+
+# Slicing a sequence
+- A way to extract parts of data structures, like strings, lists, tuples.
+- Syntax: sequence[start:stop:step] (like range)
+    - Default of start = 0
+    - Default of step = 1
+    - Default of stop = last
+    - If only 1 value is input, ensure to place the ":" in correct position
+
+# Object Oriented Programming
+- It is a way to help programmers structure the functionality of your program that would make sense to humans and would allow computers to run it efficiently.
+- Almost all programming languages use this concept.
+- It uses "objects" to model real-world entities.
+
+## Key Concepts in OOP
+- Class
+    - A blueprint for creating objects.
+    - Defines a set of attributes or methods that the created objects (instances) will have
+    - E.g. Blueprint provided while building ahouse, defining what an animal is
+
+- Object
+    - An instance of a class
+    - It represents a specific entity with attributes (data) and methods (functions) which are defined by class.
+    - E.g. A built house with many functions (as functions) 
