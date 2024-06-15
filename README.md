@@ -11,3 +11,9 @@
 - Solves the problem of code files being too lengthy and complex
 - Can be reused across several programs
 - Python comes with a lot of modules as well (Python Standard Library)
+
+# Packages
+- A collection of modules
+- Organise related modules under one directory
+- Initialise a package using __init__.py file
+- __init__ whenever you call something, 
